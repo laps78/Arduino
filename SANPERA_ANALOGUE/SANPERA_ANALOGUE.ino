@@ -86,6 +86,7 @@ void setup() {
   digitalWrite(A2,HIGH);
   digitalWrite(A3,LOW);
   digitalWrite(A4,HIGH);
+  
   Serial.begin(31250);            //MIDI communicates at 31250 baud
  
   // set volume to low

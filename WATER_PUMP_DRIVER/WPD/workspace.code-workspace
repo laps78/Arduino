@@ -1,0 +1,10 @@
+{
+    "folders": [
+		{
+			"path": "../../.."
+		}
+	],
+    "settings": {
+        "livePreview.defaultPreviewPath": "/laps78.github.io/index.html"
+    }
+}
